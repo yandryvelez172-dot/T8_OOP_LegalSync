@@ -1,0 +1,6 @@
+ec\edu\espe\legalsync\model\ClientTest.class
+ec\edu\espe\legalsync\model\UserTest.class
+ec\edu\espe\legalsync\model\AuthenticationServiceTest.class
+ec\edu\espe\legalsync\model\DeadlineTest.class
+ec\edu\espe\legalsync\model\CaseFileTest.class
+ec\edu\espe\legalsync\model\SearchEngineTest.class
