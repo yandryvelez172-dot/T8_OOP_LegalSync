@@ -1,0 +1,8 @@
+/06Code/LegalSync/LegalSync/nbproject/private/
+# Ignorar carpetas compiladas y privadas de NetBeans
+**/nbproject/private/
+**/build/
+**/dist/
+**/target/
+*.class
+.DS_Store
