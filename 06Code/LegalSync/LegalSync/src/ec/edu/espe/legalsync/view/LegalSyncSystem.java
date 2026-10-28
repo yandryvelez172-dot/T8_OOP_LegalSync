@@ -56,9 +56,9 @@ public class LegalSyncSystem {
     private static boolean showLoginScreen() {
         System.out.println("\n--- AUTHENTICATION SCREEN (Data loaded from data/users.json) ---");
         System.out.println("Default Accounts for Testing:");
-        System.out.println("  * Director (Full Access) : director@legalsync.com  | Pass: admin123");
-        System.out.println("  * Partner  (Write Access): partner@legalsync.com   | Pass: partner123");
-        System.out.println("  * Secretary (Read-Only)  : secretary@legalsync.com | Pass: sec123");
+        System.out.println("  * Director (Full Access) : director@legalsync.com  | Pass: dRtor26");
+        System.out.println("  * Partner  (Write Access): partner@legalsync.com   | Pass: ParTner13");
+        System.out.println("  * Secretary (Read-Only)  : secretary@legalsync.com | Pass: seC32");
         System.out.println("Type 'EXIT' as email to close the application.");
         System.out.print("Enter registered email: ");
         String email = scanner.nextLine().trim();

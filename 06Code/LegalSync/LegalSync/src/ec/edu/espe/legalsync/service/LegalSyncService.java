@@ -39,12 +39,12 @@ public class LegalSyncService {
 
     private void initializeDefaultDataIfEmpty() {
         if (this.users.isEmpty()) {
-            this.users.add(new User(1, "Managing Director", "director@legalsync.com", "admin123", "DIRECTOR", true));
-            this.users.add(new User(2, "Senior Partner", "partner@legalsync.com", "partner123", "PARTNER", true));
-            this.users.add(new User(3, "Associate Lawyer", "associate@legalsync.com", "assoc123", "ASSOCIATE_LAWYER", true));
-            this.users.add(new User(4, "Junior Lawyer", "junior@legalsync.com", "junior123", "JUNIOR_LAWYER", true));
-            this.users.add(new User(5, "Legal Assistant", "assistant@legalsync.com", "assist123", "LEGAL_ASSISTANT", true));
-            this.users.add(new User(6, "Firm Secretary", "secretary@legalsync.com", "sec123", "SECRETARY", true));
+            this.users.add(new User(1, "Managing Director", "director@legalsync.com", "dRtor26", "DIRECTOR", true));
+            this.users.add(new User(2, "Senior Partner", "partner@legalsync.com", "ParTner13", "PARTNER", true));
+            this.users.add(new User(3, "Associate Lawyer", "associate@legalsync.com", "assoC23", "ASSOCIATE_LAWYER", true));
+            this.users.add(new User(4, "Junior Lawyer", "junior@legalsync.com", "JunIor31", "JUNIOR_LAWYER", true));
+            this.users.add(new User(5, "Legal Assistant", "assistant@legalsync.com", "asSisT12", "LEGAL_ASSISTANT", true));
+            this.users.add(new User(6, "Firm Secretary", "secretary@legalsync.com", "seC32", "SECRETARY", true));
             FileManager.saveUsersToJson(this.users);
         }
         if (this.clients.isEmpty()) {
