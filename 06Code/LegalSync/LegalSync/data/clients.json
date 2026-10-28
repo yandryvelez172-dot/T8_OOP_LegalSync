@@ -1,0 +1,4 @@
+[
+  {"clientId": 1, "idNumber": "1712345678", "name": "Maria Fernanda Gomez", "phone": "0991112233", "email": "mgomez@mail.com", "address": "Av. Amazonas, Quito"},
+  {"clientId": 2, "idNumber": "1798765432", "name": "Carlos Andres Vaca", "phone": "0984445566", "email": "cvaca@mail.com", "address": "San Martin, Quito"}
+]

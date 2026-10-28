@@ -1,0 +1,8 @@
+[
+  {"userId": 1, "name": "Managing Director", "email": "director@legalsync.com", "password": "admin123", "role": "DIRECTOR", "active": true},
+  {"userId": 2, "name": "Senior Partner", "email": "partner@legalsync.com", "password": "partner123", "role": "PARTNER", "active": true},
+  {"userId": 3, "name": "Associate Lawyer", "email": "associate@legalsync.com", "password": "assoc123", "role": "ASSOCIATE_LAWYER", "active": true},
+  {"userId": 4, "name": "Junior Lawyer", "email": "junior@legalsync.com", "password": "junior123", "role": "JUNIOR_LAWYER", "active": true},
+  {"userId": 5, "name": "Legal Assistant", "email": "assistant@legalsync.com", "password": "assist123", "role": "LEGAL_ASSISTANT", "active": true},
+  {"userId": 6, "name": "Firm Secretary", "email": "secretary@legalsync.com", "password": "sec123", "role": "SECRETARY", "active": true}
+]
