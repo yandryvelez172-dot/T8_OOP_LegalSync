@@ -1,4 +1,1 @@
 [
-  {"dateTime": "2026-10-27 21:14:01", "userEmail": "director@legalsync.com", "role": "DIRECTOR", "action": "USER_LOGIN", "docketNumber": "N/A"},
-  {"dateTime": "2026-10-27 21:14:29", "userEmail": "director@legalsync.com", "role": "DIRECTOR", "action": "EXPORT_CSV_REPORTS (cases_report.csv & billing_report.csv)", "docketNumber": "ALL"}
-]

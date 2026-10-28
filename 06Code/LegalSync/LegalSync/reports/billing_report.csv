@@ -1,4 +1,1 @@
 CaseID,DocketNumber,ClientName,ClientIDNumber,ExpenseID,ExpenseDate,ExpenseDescription,AmountUSD,PaymentStatus,TotalCaseDebtUSD,AccountBalanceStatus
-101,17203-2026-00451,Maria Fernanda Gomez,1712345678,1,2026-10-12,Notarized copies for alimony filing,5,00,PENDING,20,00,PENDING DEBT
-101,17203-2026-00451,Maria Fernanda Gomez,1712345678,2,2026-10-15,Judicial courier notification fee,15,00,PENDING,20,00,PENDING DEBT
-101,17203-2026-00451,Maria Fernanda Gomez,1712345678,3,2026-10-10,Initial legal consultation fee,50,00,PAID,20,00,PENDING DEBT
